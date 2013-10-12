@@ -1,0 +1,43 @@
+body{
+	background-color:#fff;
+	color:#000;
+}
+.page{
+	background-color:#FFF;
+	width:1000px;
+	text-align:center;
+	margin:auto;
+}
+.slide{
+	border:solid 1px;
+	width:980px;
+	margin:5px;
+}
+.menutop{
+	border:solid 1px;
+	background-color:#222;
+	width:980px;
+	height:100px;
+}
+.menuside{
+	float:left;
+	border:solid 1px;
+	background-color:#222;
+	color:#FFF;
+	/*border-top:none;*/
+	width:100px;
+	height:400px;
+}
+.menufooter{
+	border:solid 1px;
+	background-color:#6FF;
+	margin:5px;
+	clear::both;
+}
+.content{
+	border:solid 1px;
+	background-color:#FF0;
+	height:500px;
+	margin:5px;
+	margin-left:130px;
+}
